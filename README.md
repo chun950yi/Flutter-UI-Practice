@@ -1,7 +1,7 @@
 # demo
 
 
-![](https://i.imgur.com/t2p5sep.png =60%x)
+![](https://i.imgur.com/t2p5sep.png)
 
 A new Flutter project.
 
